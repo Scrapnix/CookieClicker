@@ -1,0 +1,5 @@
+name: CookieClicker
+author: Scrapnix
+version: 1.0
+
+main: com.scrap.cookieclicker.main.Main
